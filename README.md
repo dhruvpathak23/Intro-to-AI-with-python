@@ -2,7 +2,8 @@
 
 Python implementations of core Artificial Intelligence concepts based on the Intro to AI with Python curriculum.
 The project focuses on Knowledge Representation and Search Algorithms with executable examples.
-Project Structure
+
+# Project Structure
 .
 ├── Knowledge/
 │   ├── logic.py
@@ -19,7 +20,7 @@ Project Structure
 ├── LICENSE
 └── README.md
 
-Modules
+# Modules
 Knowledge Representation
 
 Propositional logic
@@ -44,7 +45,7 @@ Path finding in maze environments
 
 Files: maze.py, maze.txt
 
-How to Run
+# How to Run
 
 Python version: 3.11+
 
@@ -52,7 +53,7 @@ python Knowledge/clue.py
 python Knowledge/harry.py
 python Search/maze.py
 
-Skills Demonstrated
+# Skills Demonstrated
 
 Artificial Intelligence fundamentals
 
@@ -64,6 +65,6 @@ Python programming
 
 Problem solving and algorithm design
 
-License
+# License
 
 See the LICENSE file for details.
