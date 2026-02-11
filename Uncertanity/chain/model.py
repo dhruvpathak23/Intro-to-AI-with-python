@@ -18,4 +18,4 @@ transition = ConditionalProbabilityTable([
 model = MarkovChain([start, transition])
 
 #sample 50 states from chain
-print(model.sample(50))
+print(model.sample(50)) 
