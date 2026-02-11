@@ -15,4 +15,4 @@ observations = [
 #predict underlying states
 predictions = model.predict(observations)
 for prediction in predictions:
-    print(model.states[prediction].name)
+    print(model.states[prediction].name)  
